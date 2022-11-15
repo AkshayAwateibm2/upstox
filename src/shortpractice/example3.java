@@ -7,6 +7,7 @@ public class example3 {
 		short a=32767;
 		System.out.println("s:"+s);
 		System.out.println("a:"+a);
+		system.out.println("im running from github")
 	}
 
 }
