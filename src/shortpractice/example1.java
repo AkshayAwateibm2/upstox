@@ -6,6 +6,7 @@ public class example1 {
 		System.out.println(a);
 		short s=32765;
 		System.out.println(s);
+		system.println("im from github");
 		
 	}
 
